@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+
+<html>
   <head>
     <title>HTML AND CSS COURSE</title>
     <style>
